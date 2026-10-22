@@ -3,7 +3,7 @@
 ![Preview](preview.png)
 
 ## Linux Download
-[Download the latest release](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[Download the latest release](https://github.com/moduldesign/effectcraft-pink-pixel-theme/releases)
 
 With upcoming releases, other operating systems will be supported.
 
