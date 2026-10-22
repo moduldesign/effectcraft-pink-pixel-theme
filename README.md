@@ -1,6 +1,6 @@
 # EffectCraft Pink Pixel Theme
 
-[Preview](preview.png)
+![Preview](preview.png)
 
 ## Linux Download
 [Download the latest release](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
